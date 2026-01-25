@@ -162,4 +162,6 @@ cython_debug/
 .obsidian
 
 # 忽略各种文件夹下codex AGENRS.md
-AGENTS.md
+!AGENTS.md
+!AGENTS_EN.md
+!WARP.md
