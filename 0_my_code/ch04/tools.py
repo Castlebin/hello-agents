@@ -54,7 +54,6 @@ def search(query: str) -> str:
         return f"搜索时发生错误: {e}"
 
 
-
 from typing import Dict, Any
 
 # 定义一个工具执行器类，负责管理和执行工具
