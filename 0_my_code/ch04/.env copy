@@ -1,0 +1,8 @@
+# 可以在 .env 文件中设置环境变量，使用 python-dotenv 进行加载，例如：
+
+LLM_MODEL_ID="YOUR-MODEL"
+LLM_API_KEY="YOUR-API-KEY"
+LLM_BASE_URL="YOUR-URL"
+SERPAPI_API_KEY="YOUR_SERPAPI_API_KEY"
+
+
