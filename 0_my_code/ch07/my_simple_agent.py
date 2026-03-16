@@ -3,7 +3,9 @@ import re
 from typing import Optional, Iterator
 from hello_agents import SimpleAgent, HelloAgentsLLM, Config, Message
 
-
+"""
+MySimpleAgent。它不仅支持基础对话，还具备可选的工具调用能力、流式响应和便利的工具管理方法。
+"""
 class MySimpleAgent(SimpleAgent):
     """
     重写的简单对话Agent
