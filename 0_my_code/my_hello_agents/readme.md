@@ -1,5 +1,5 @@
 # hello-agents 目录结构
-
+```
 hello-agents/
 ├── hello_agents/
 │   │
@@ -25,5 +25,5 @@ hello-agents/
 │   │       ├── calculator.py     # 计算工具
 │   │       └── search.py         # 搜索工具
 └──
-
+```
 
