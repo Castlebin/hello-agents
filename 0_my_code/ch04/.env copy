@@ -1,0 +1,9 @@
+# .env file
+LLM_API_KEY=""
+LLM_MODEL_ID="Qwen/Qwen3.5-27B"
+LLM_BASE_URL="https://api.siliconflow.cn/v1"
+
+
+SERPAPI_API_KEY=""
+
+
